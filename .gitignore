@@ -1,0 +1,8 @@
+# This repository is documentation only. The Worker source, config and
+# secrets live locally and deploy straight to Cloudflare, so everything
+# is ignored by default and the language files are added back explicitly.
+*
+
+!.gitignore
+!README.md
+!README.*.md
